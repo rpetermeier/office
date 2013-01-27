@@ -1,0 +1,74 @@
+﻿A Coruña
+Albacete
+Alicante
+Algeciras
+Almería
+Arrecife
+Ávila
+Avilés
+Badajoz
+Barcelona
+Benicarló
+Benidorm
+Bilbao
+Burgos
+Cáceres
+Cadiz
+Cartagena
+Castellón
+Ciudad Real
+Córdoba
+Cuenca
+Donostia-San Sebastián
+Écija
+Elche
+El Escorial
+Ferrol
+Fuerteventura
+Gijón
+Girona
+Granada
+Guadalajara
+Huelva
+Huesca
+Ibiza
+Jaén
+Jerez
+Langreo
+Las Palmas de Gran Canaria
+León
+Lleida
+Logroño (la Rioja)
+Lugo
+Madrid
+Málaga
+Mataró
+Melilla
+Mérida
+Mieres
+Murcia
+Ourense
+Oviedo
+Palencia
+Palma de Mallorca
+Pamplona
+Ponteareas
+Pontevedra
+Sabadell
+Salamanca
+Santa Cruz de Tenerife
+Santander
+Santiago de Compostela
+Segovia
+Sevilla
+Soria
+Talavera de la Reina
+Tarragona
+Tenerife
+Terrassa
+Toledo
+Valencia
+Valladolid
+Vigo
+Zamora
+Zaragoza

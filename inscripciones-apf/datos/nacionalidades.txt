@@ -1,0 +1,14 @@
+﻿español
+colombiano
+nicaragüense
+argentino
+alemán
+sueco
+venezolano
+mexicano
+guatemalteco
+peruano
+chileno
+boliviano
+uruguayo
+paraguayo
